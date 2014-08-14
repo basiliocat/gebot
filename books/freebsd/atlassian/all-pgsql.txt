@@ -1,0 +1,7 @@
+roles/nginx/nginx.sh
+roles/postgresql/install.sh
+roles/atlassian/jira.sh
+roles/atlassian/confluence.sh
+#roles/atlassian/fisheye.sh
+roles/atlassian/postgresql-init.sh jira
+roles/atlassian/postgresql-init.sh confluence

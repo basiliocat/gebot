@@ -1,0 +1,4 @@
+roles/nginx/nginx.sh
+roles/atlassian/jira.sh
+roles/atlassian/confluence.sh
+#roles/atlassian/fisheye.sh

@@ -1,0 +1,12 @@
+scripts/setup/resolv.sh
+scripts/setup/update.sh
+scripts/setup/pkg.sh
+scripts/setup/common-packages.sh
+scripts/setup/login-conf.sh
+scripts/setup/mail-aliases.sh
+scripts/setup/make-conf.sh
+scripts/setup/motd.sh
+scripts/setup/ntpd.sh
+scripts/setup/sudoers.sh
+scripts/setup/timezone.sh
+scripts/setup/zabbix-agent.sh

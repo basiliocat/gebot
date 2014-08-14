@@ -1,0 +1,4 @@
+roles/mysql/mysql-common.sh
+roles/atlassian/jira.sh
+roles/atlassian/java-mysql-driver.sh jira
+roles/atlassian/mysql-init.sh jira

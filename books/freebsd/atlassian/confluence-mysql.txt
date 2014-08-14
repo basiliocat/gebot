@@ -1,0 +1,4 @@
+roles/mysql/mysql-common.sh
+roles/atlassian/confluence.sh
+roles/atlassian/java-mysql-driver.sh confluence
+roles/atlassian/mysql-init.sh confluence

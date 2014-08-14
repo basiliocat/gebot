@@ -1,0 +1,3 @@
+roles/postgresql/install.sh
+roles/atlassian/jira.sh
+roles/atlassian/postgresql-init.sh jira

@@ -1,0 +1,6 @@
+roles/nginx/nginx.sh
+roles/nginx/nginx-ssl.sh
+roles/php/php-fpm.sh
+roles/mysql/mysql-common.sh
+roles/zabbix/zabbix-common.sh
+roles/zabbix/zabbix-mysql.sh

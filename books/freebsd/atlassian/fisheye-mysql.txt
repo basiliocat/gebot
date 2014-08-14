@@ -1,0 +1,4 @@
+roles/mysql/mysql-common.sh
+roles/atlassian/fisheye.sh
+roles/atlassian/java-mysql-driver.sh fisheye
+roles/atlassian/mysql-init.sh fisheye

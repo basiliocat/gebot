@@ -1,0 +1,5 @@
+roles/web/uwsgi.sh
+roles/nginx/nginx.sh
+roles/web/uwsgi-nginx.sh
+roles/web/rabbitmq.sh
+roles/web/celery.sh
